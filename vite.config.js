@@ -6,9 +6,9 @@ import VueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  server:{
+  server: {
     strictPort: true,
-    port: 3_000,
+    port: 3_000
   },
   plugins: [vue(), VueDevTools()],
   resolve: {
