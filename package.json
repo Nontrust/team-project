@@ -8,12 +8,15 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "vite ---mode prod",
     "build": "vite build",
+    "build-prod": "vite build --mode prod",
     "preview": "vite preview",
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "pinia": "^2.1.7",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
