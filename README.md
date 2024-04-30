@@ -7,8 +7,8 @@
 ![](https://img.shields.io/badge/Vite-1)
 
 ## + nvm 설치 방법 (Option)
-[설치 링크](https://github.com/coreybutler/nvm-windows/releases)
-![img.png](readme/img_7.png)
+[설치 링크](https://github.com/coreybutler/nvm-windows/releases)  
+![img.png](readme/img_7.png)  
 별다른 설정 없이 설치 이후 power shell에 다음과 같이 입력 
 
 ```shell
@@ -31,10 +31,10 @@ npm create vue # vue 프로젝트 세팅 진행 (이후 필요한 옵션을 선�
 ```sh
 npm install #프로젝트에 필요한 패키지 정보 설치 
 ```
-프로젝트에 해당하는 정보는 package.json 에 있습니다!
+프로젝트에 해당하는 정보는 package.json 에 있습니다!  
 ![img_9.png](readme/img_9.png)
 
-기초 세팅 시 다음과같은 dependencies를 가진 프로젝트를 설치하게됩니다. 
+기초 세팅 시 다음과같은 dependencies를 가진 프로젝트를 설치하게됩니다.   
 ![img_6.png](readme/img_6.png)
 
 ## Project 실행
